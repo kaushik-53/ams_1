@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "Avatar for the admin user",
+      "imageUrl": "https://picsum.photos/seed/1/100/100",
+      "imageHint": "professional person"
+    },
+    {
+      "id": "2",
+      "description": "Avatar for a teacher user",
+      "imageUrl": "https://picsum.photos/seed/2/100/100",
+      "imageHint": "friendly teacher"
+    },
+    {
+      "id": "3",
+      "description": "Avatar for a student user",
+      "imageUrl": "https://picsum.photos/seed/3/100/100",
+      "imageHint": "happy student"
+    },
+    {
+      "id": "4",
+      "description": "Avatar for another student user",
+      "imageUrl": "https://picsum.photos/seed/4/100/100",
+      "imageHint": "smiling student"
+    },
+    {
+      "id": "5",
+      "description": "Avatar for a student user",
+      "imageUrl": "https://picsum.photos/seed/5/100/100",
+      "imageHint": "student profile"
+    },
+    {
+      "id": "6",
+      "description": "Avatar for a student user",
+      "imageUrl": "https://picsum.photos/seed/6/100/100",
+      "imageHint": "student portrait"
+    },
+    {
+      "id": "7",
+      "description": "Avatar for a teacher user",
+      "imageUrl": "https://picsum.photos/seed/7/100/100",
+      "imageHint": "educator"
+    }
+  ]
+}
